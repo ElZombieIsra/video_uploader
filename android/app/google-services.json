@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "74437808790",
+    "firebase_url": "https://nic-course.firebaseio.com",
+    "project_id": "nic-course",
+    "storage_bucket": "nic-course.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74437808790:android:49b7535d55c0515c1368b7",
+        "android_client_info": {
+          "package_name": "app.deimos.video_uploader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74437808790-ofr09h8c821oaicppo8lrcnrkcfu9bt3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCISWKk9HbI6uFnf8UwqVB0VjqepD9SMVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "74437808790-ofr09h8c821oaicppo8lrcnrkcfu9bt3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
