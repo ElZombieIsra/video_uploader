@@ -49,6 +49,7 @@ class _HomeScreenState extends State<HomeScreen> {
   void _uploadVideo() async {
     try {
       File video = await FilesUtil.getVideoFromGallery();
+      if (video == null) return;
       StorageUploadTask _task = _firebaseRepository.uploadVideo(
         DateTime.now().toIso8601String(),
         video,

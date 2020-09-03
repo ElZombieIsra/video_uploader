@@ -39,6 +39,12 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Uses the gallery to retrieve videos and upload them to the cloud</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Uses the camera to retrieve files and upload them to the cloud</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Uses the mic to retrieve sounds and upload them to the cloud</string>
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<false/>
 </dict>
